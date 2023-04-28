@@ -1,0 +1,2 @@
+# .github
+barebox .github metarepository
